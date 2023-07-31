@@ -1,0 +1,61 @@
+body {
+    background-image: url(fondo.jpg);
+    text-align: center;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 1800px;
+    background-attachment: fixed;
+
+
+      
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff; /* Color del texto */
+    background-color: #000000e3; /* Color de fondo */
+    margin: 0;
+    padding: 0;
+}
+
+
+input {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 12px;
+    padding: 18px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(189, 244, 252, 0.418);
+    border: 3px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    margin: 15px 0;
+}
+
+button {
+    color: #ffffff;
+    background-color: rgba(0, 255, 255, 0.288);
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-color: aquamarine;
+}
+
